@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "sH0cLRL3fJdmb1s5rfcmmh3KaxVyYsVYHRt07uIN7jpaVnworCPrDk7xZiZkiD3/4NcNOFHyYpGQEsoXgNAY3w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\condr\\continued-course\\CatWorx.Badgemaker\\CatWorx.Badgemaker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\condr\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\condr\\.nuget\\packages\\skiasharp\\2.88.3\\skiasharp.2.88.3.nupkg.sha512",
+    "C:\\Users\\condr\\.nuget\\packages\\skiasharp.nativeassets.macos\\2.88.3\\skiasharp.nativeassets.macos.2.88.3.nupkg.sha512",
+    "C:\\Users\\condr\\.nuget\\packages\\skiasharp.nativeassets.win32\\2.88.3\\skiasharp.nativeassets.win32.2.88.3.nupkg.sha512"
+  ],
+  "logs": []
+}
